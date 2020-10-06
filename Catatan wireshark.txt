@@ -1,0 +1,19 @@
+1. Troughput:
+   2022/50.608=39.95
+   39.95x1bit(8)=319.6bit/s
+
+2. Paket loss= 0 (Tidak ada)
+
+3. Delay=Time2-Time1
+   Total Delay= 29.043829
+   Rata-rata Delay= Total Delay/Jumlah Packet-1
+		  = 29.089725/(28-1)
+		  =  1.0773972
+
+4. Jitter
+   Total Jitter= 1.267369
+   Rata-rata Jitter= 0.0469396
+	
+
+
+
